@@ -1,0 +1,81 @@
+ul li i {
+    font-size: 20px;
+}
+
+h5 {
+color: goldenrod
+}
+
+#lifestyle, #photodiary {
+    color: goldenrod
+    }
+
+#navigation {
+    margin-top: 25px !important;
+    margin-bottom: 50px !important;
+}
+
+.nav-pills li {
+    padding-right: 100px;
+}
+
+#banner {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+#main {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+#cardbox {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.card {
+    border: none !important;
+}
+
+#signbox {
+    background-color:lightgrey !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.form-control {
+    background-color: rgba(0,0,0,0);
+}
+input {
+    border: none !important;
+}
+input::placeholder {
+    color: black!important;
+    padding: none;
+    border: none;
+ }
+input:focus{
+        outline: none !important;
+        background:white!important;
+        border: none !important;
+        box-shadow: none !important;
+        background-color: transparent !important;
+}
+
+#bottombox {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.one {
+    height: 500px;
+}
+.two {
+    margin-top: 150px;
+}
+
+
+
+
+
